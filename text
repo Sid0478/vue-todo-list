@@ -1,0 +1,4 @@
+git remote add origin git@github.com:Steven-1220/2022_Vue_Task_Week7.git
+git push -u origin master
+
+git push -f git@github.com:Sid0478/vue-todo-list.git master:gh-pages
